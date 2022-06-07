@@ -14,5 +14,6 @@ alert(degreeCelsius + ' градусов по Цельсию = ' + ((9 / 5) * de
 Скопировать значение из name в admin. Вывести admin (должно вывестись «Василий»).
 */
 
+var admin;
 var name = '"Василий"';
 alert(admin = name);
